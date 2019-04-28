@@ -1,0 +1,25 @@
+body{
+    background-image: url("5.jpg");
+    background-size: cover;
+}
+.centered-form{
+	margin-top: 60px;
+}
+
+.centered-form .panel{
+  background-color: white;
+}
+.c1
+{
+  margin-top: 170px
+}
+.l1
+{
+  font-size: 20px;
+  align-items: center;
+  align-content: center;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}

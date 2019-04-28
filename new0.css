@@ -1,0 +1,79 @@
+.row{
+      margin-top:40px;
+      padding: 0 10px;
+  }
+  .clickable{
+      cursor: pointer;
+  }
+
+  .panel-heading div {
+    margin-top: auto;
+    font-size: 30px;
+  }
+  .panel-heading div span{
+    margin-left:auto;
+  }
+  .panel-body{
+    display: none;
+  }
+  table {
+    width :100%;
+  border-spacing: 20px;
+}
+#heading
+{
+  margin :auto;
+}
+#tablee
+{
+  margin:60px;
+  margin-top: 80px;
+}
+body,html{
+  background-image: url("3.jpg");
+  background-size: cover;
+}
+#click
+{
+  background-color: blue;
+  padding: 10px;
+  padding-left: 15px;
+
+  padding-right: 15px;
+}
+#click.p
+{
+  color: white;
+}
+
+
+.btn-center
+{
+  margin-left: 50%;
+  margin-right: 50%;
+}
+.addhotel
+{
+  font-weight:bold;
+  font-size: 40px;
+  font-family: serif;
+  padding: 30px;
+  color: black;
+  font-style: italic;
+
+}
+.Container
+{
+  margin-top: 20px;
+}
+.c1
+{
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+html,body{
+
+  font-family: serif;
+
+}

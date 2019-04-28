@@ -1,0 +1,63 @@
+html,body{
+background-image: url('2.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 100%;
+align-content: center;
+align-items: center;
+}
+
+.divider-text {
+    position: relative;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.divider-text span {
+    padding: 7px;
+    font-size: 12px;
+    position: relative;
+    z-index: 2;
+}
+.divider-text:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    top: 55%;
+    left: 0;
+    z-index: 1;
+}
+
+#regis
+{
+    margin: 20px;
+    margin-bottom: 40px;
+    color:white;
+    font-style: italic;
+    font-family:sans-serif;
+}
+.card{
+height: 550px;
+margin:auto;
+width: 500px;
+margin-top: 50px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.btn-facebook {
+    background-color: #405D9D;
+    color: #fff;
+}
+.btn-twitter {
+    background-color: #42AEEC;
+    color: #fff;
+}
+#con{
+  padding: 25px;
+}
